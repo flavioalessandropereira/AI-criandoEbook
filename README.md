@@ -9,13 +9,13 @@ O objetivo do projeto é explorar a capacidade das Inteligências Artificiais em
 
 ## 📰 Prompts e ferramentas
  ChatGPT:
-| Ação | prompt |
+| ação | prompt |
 |----------|----------|
 | Título | ---- digitar ----- |
 | Conteúdo | ---- digitar|
 
 Lexica:
-| Imagem | prompt |
+| imagem | prompt |
 |----------|----------|
 | cobra | python logo |
 | robo teclado | keyboard robot |
