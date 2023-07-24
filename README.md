@@ -11,8 +11,9 @@ O objetivo do projeto é explorar a capacidade das Inteligências Artificiais em
  ChatGPT:
 | ação | prompt |
 |----------|----------|
-| Título | ---- digitar ----- |
-| Conteúdo | ---- digitar ---- |
+| Título |
+Crie um titulo de um ebook sobre o tema de python, o ebook é do nicho de programação e o subnicho é python para iniciantes ao avançado, o título deve ser épico e curto, e tenha uma temática heróis no mundo marvel ou dc no  título, me liste 5 variações de títulos|
+| Conteúdo | Faça um texto para ebook, com foco em Python, listando os 5 principais comandos utilizados na programação orientada a objetos em Python, com exemplos de códigos {REGRAS} > Explique sempre de uma maneira simples e voltado ao mundo de herois, alguma referencia > Deixe o texto enxuto > Sempre traga exemplos de código em contexto reais > Sempre deixa um título sugestivo por tópico|
 
 Lexica:
 | imagem | prompt |
