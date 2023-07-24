@@ -12,7 +12,7 @@ O objetivo do projeto é explorar a capacidade das Inteligências Artificiais em
 | ação | prompt |
 |----------|----------|
 | Título | ---- digitar ----- |
-| Conteúdo | ---- digitar|
+| Conteúdo | ---- digitar ---- |
 
 Lexica:
 | imagem | prompt |
