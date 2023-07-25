@@ -21,7 +21,7 @@ Lexica:
 | robo teclado | keyboard robot |
 | robo amarelo |robo maintenance code|
 | bloco colorido | block code |
-
+,,,
 ## 👨‍💻 Sobre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioalessandropereira/)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavioalessandropereira)
