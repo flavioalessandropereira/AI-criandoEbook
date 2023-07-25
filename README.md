@@ -1,7 +1,7 @@
 # Projeto Ebook Gerado por I.As
 O objetivo do projeto é explorar a capacidade das Inteligências Artificiais em criar conteúdos de forma rápida e eficiente. 
 
-📖 [Leitura do Ebook](.github/assets/EbookPython.pdf) - Dicas para Escrever Código Python como um Programador Sênior
+📖 [Leitura do Ebook](.github/assets/EbookPython.pdf) - PYTHON: OS 5 PODERES HERÓICOS
 
 ## 💻 Tecnologias utilizadas no projeto:
  - [ChatGPT](https://chat.openai.com/) 
